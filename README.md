@@ -24,14 +24,9 @@
 
 8. Then hit the debug option menu and should be able to debug with your picos :).
 
-Here I leave a video of the picos wired and the debugger working
+Here I leave a video of the picos wired and the debugger working, if you can't see it on the github markdown reader, just head to the video folder in the repo.
 
-<video width="320" height="240" controls>
-  <source src="./video/picos_wired_video.mp4" type="video/mp4">
-</video>
+![picos_wired_video](./video/picos_wired_video.mp4)
 
 
-<video width="320" height="240" controls>
-  <source src="./video/pico_debug_video.mp4" type="video/mp4">
-</video>
-
+![picos_debug_video](./video/pico_debug_video.mp4)
